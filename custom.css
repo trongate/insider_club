@@ -1,0 +1,400 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 0px;
+  padding-bottom: 20px;
+  background-color: #FFFFFF;
+  font-family: 'Open Sans',arial,sans-serif;
+}
+
+p {
+    color: #777;
+}
+
+#top_strip {
+  width: 100%;
+  background-color: black; 
+  margin-top: 0px;
+  padding-top: 0px;
+  color: #fff;
+  font-size: 0.8em;
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
+}
+
+.header {
+    min-height: 176px;
+}
+
+.dropdown-menu li:hover .sub-menu {
+    border-top: 4px #4DB2EC solid;
+    visibility: visible;
+}
+
+.dropdown:hover .dropdown-menu {
+    border-top: 4px #4DB2EC solid;
+    display: block;
+}
+
+#boxshadow {
+    position: relative;
+    -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.2);
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .2);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .2);
+    padding: 10px;
+    background: white;
+}
+
+/* Make the image fit the box */
+#boxshadow img {
+    width: 100%;
+    border: 1px solid #8a4419;
+    border-style: inset;
+}
+
+#boxshadow::after {
+    content: '';
+    position: absolute;
+    z-index: -1; /* hide shadow behind image */
+    -webkit-box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);                
+    width: 70%; 
+    left: 15%; /* one half of the remaining 30% */
+    height: 100px;
+    bottom: 0;
+}
+
+#main-stage { 
+    min-height: 600px;
+    background: #F4F4F4; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#F4F4F4, #FFFFFF); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#F4F4F4, #FFFFFF); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#F4F4F4, #FFFFFF); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#F4F4F4, #FFFFFF); /* Standard syntax (must be last) */
+}
+
+#logo {
+    width: 248px;
+    height: 60px;
+    background-color: white;
+    margin-top: 22px;
+    margin-left: 70px;
+}
+
+#banner {
+    width: 728px;
+    height: 90px;
+    background-color: black;
+    float: right;
+    position: relative;
+    margin-top: 17px;
+    color: white;
+    text-align: center;
+    line-height: 90px;
+}
+
+.today_date {
+    float: left;
+    position: relative;
+}
+
+.top_right_links {
+    float: right;
+    position: relative;
+}
+
+/* unvisited link */
+.top_right_links a:link {
+    color: #fff;
+    margin-left: 26px;
+}
+body {
+    color: #000 !important;
+}
+
+/* visited link */
+.top_right_links a:visited {
+    color: #fff;
+    margin-left: 26px;
+}
+
+/* mouse over link */
+.top_right_links a:hover {
+    color: #4db2ec;
+    margin-left: 26px;
+    text-decoration: none;
+}
+
+/* selected link */
+.top_right_links a:active {
+    color: #fff;
+    margin-left: 26px;
+}
+
+#tabbed-headline {
+    border-bottom: 2px black solid;
+}
+
+.headline {
+    font-size: 0.9em;
+    background-color: #000;
+    color: #fff;
+    padding-bottom: 3px;
+    padding-top: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-transform: uppercase;
+}
+
+.go_smaller {
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+#info_square {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    text-transform: uppercase;
+    padding-left: 2px !important;
+    margin-left: 2px !important;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+
+
+.btn {
+    font-size: 0.84em;
+    border-radius:0;
+    border: 0 none;
+    letter-spacing: 1px;
+}
+
+.btn-default {
+    background-color: #999;
+    box-shadow: none;
+    color: #fff;
+}
+
+.btn-default:hover {
+    background-color: #888;
+    box-shadow: none;
+    color: #fff;
+}
+
+.dark_link {
+  color: #000;
+}
+
+h5 {
+    margin-top: 0px;
+    padding-top: 0px;
+    line-height: 1.4em;
+}
+
+.ghost {
+    font-weight: normal;
+    color: silver;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.top_stage {
+  background-color: #fff;
+  min-height: 1px;
+}
+
+#dc_nav {
+    background-color: #FFFFFF;
+    border: 1px #FFFFFF solid;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+
+.dc_li a:hover {
+    color: #000 !important;
+    border-bottom: 4px #4DB2EC solid !important;
+}
+
+.dc_li a:link {
+    color: #000 !important;
+    border-bottom: 4px #4DB2EC solid;
+}
+
+/* visited link */
+.dc_li a:visited {
+    color: #000 !important;
+    border-bottom: 4px #FFFFFF solid;
+}
+
+
+/* selected link */
+.dc_li a:active {
+    color: #000 !important;
+    border-bottom: 4px #4DB2EC solid;
+}
+
+
+
+.onthis {
+    color: #FF0000 !important;
+    border-bottom: 4px #4DB2EC solid !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dropdown-toggle {
+    color: black !important;
+}
+
+.dropdown-toggle a:hover {
+    color: #ff0000 !important;
+    border-bottom: 4px #4DB2EC solid;
+}
+
+.dropdown-toggle a:link {
+    color: #000 !important;
+    border-bottom: 4px #4DB2EC solid;
+}
+
+/* visited link */
+.dropdown-toggle a:visited {
+    color: #000 !important;
+    border-bottom: 4px #4DB2EC solid;
+}
+
+
+/* selected link */
+.dropdown-toggle a:active {
+    color: #000 !important;
+    border-bottom: 4px #4DB2EC solid;
+}
+
+.badge {
+    border-radius:0 !important;
+    color: #fff;
+    background-color: #000;
+}
+
+h3 {
+    line-height: 1.4em;
+}
+
+
+.footer {
+    min-height: 400px;
+    margin-top: 36px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    line-height: 4em;
+}
+
+
+
+
+
+
+
+
+
+
+
