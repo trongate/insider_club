@@ -38,7 +38,7 @@
                 </div>
                 <div class="col-md-8" style="padding-left: 0px;">
                   <h5>WordPress News Magazine Charts the Most Fashionable New York Couples in 2016</h5>
-                  <div class="go_smaller">David Connelly <span class="ghost">- 6th Feb 2017</span></div>
+                  <div class="go_smaller">Travernigov <span class="ghost">- 6th Feb 2017</span></div>
                   <div style="clear: both; text-align: right;"><span class="badge badge-default">12</span></div>
                 </div>
               </div>
@@ -100,7 +100,7 @@ ul.leaders span + span {
 <p>
   The model is talking about booking her latest gig, modeling WordPress underwear in the brand latest Perfectly Fit campaign, which was shot...
   <div style="clear: both; text-align: left;">
-    <div class="go_smaller">David Connelly <span class="ghost">- 6th Feb 2017</span>
+    <div class="go_smaller">Travernigov <span class="ghost">- 6th Feb 2017</span>
       <span class="badge badge-default" style="float: right; position: relative; top: -4px; position: relative;">12</span></div>
   </div>
 </p>

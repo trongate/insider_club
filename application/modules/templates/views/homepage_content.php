@@ -75,7 +75,7 @@
                         All of the latest Inside Scoop stories to go here...
                       </a>
                   </h3>
-                    <div class="go_smaller">David Connelly <span class="ghost">- 6th Feb 2017</span></div>
+                    <div class="go_smaller">Travernigov <span class="ghost">- 6th Feb 2017</span></div>
                     <div style="clear: both; text-align: right;"><span class="badge badge-default">12</span></div>
 
                     <p>
@@ -90,7 +90,7 @@
                   ?>
                   <div class="col-md-12" style="padding-top: 0px !important; margin-top: 0px !important; border-bottom: 1px #eee solid; padding-top: 24px; padding-bottom: 24px;">
                     <h4><a href="#" class="dark_link">Fashion Photography Helps Raising Funds</h4>
-                      <div class="go_smaller">David Connelly <span class="ghost">- 6th Feb 2017</span></div>
+                      <div class="go_smaller">Travernigov <span class="ghost">- 6th Feb 2017</span></div>
                       <div style="clear: both; text-align: right;"><span class="badge badge-default">12</span></div>
                   </div><!-- end of md-12 div, a few lines above -->
                   <?php
@@ -126,7 +126,7 @@
                         Top Ten Here Magazine Charts the Most Fashionable New York Couples in...
                       </a>
                   </h3>
-                    <div class="go_smaller">David Connelly <span class="ghost">- 6th Feb 2017</span></div>
+                    <div class="go_smaller">Travernigov <span class="ghost">- 6th Feb 2017</span></div>
                     <div style="clear: both; text-align: right;"><span class="badge badge-default">12</span></div>
                 </div>
 
@@ -136,7 +136,7 @@
                         TOP TEN The top picture needs to be a bit more shorter (not quite as high).
                       </a>
                   </h3>
-                    <div class="go_smaller">David Connelly <span class="ghost">- 6th Feb 2017</span></div>
+                    <div class="go_smaller">Travernigov <span class="ghost">- 6th Feb 2017</span></div>
                     <div style="clear: both; text-align: right;"><span class="badge badge-default">12</span></div>
                 </div>
               </div><!-- end of row -->
@@ -152,7 +152,7 @@
                 ?>
                 <div class="col-md-6" style="border-bottom: 1px #eee solid; padding-top: 24px; padding-bottom: 24px;">
                   <h4><a href="#" class="dark_link">Fashion Photography Helps Raising Funds</h4>
-                    <div class="go_smaller">David Connelly <span class="ghost">- 6th Feb 2017</span></div>
+                    <div class="go_smaller">Travernigov <span class="ghost">- 6th Feb 2017</span></div>
                     <div style="clear: both; text-align: right;"><span class="badge badge-default">12</span></div>
                 </div>
                 <?php
@@ -177,7 +177,7 @@
     <div style="border-bottom: 1px #eee solid;  padding-top: 24px; padding-bottom: 24px;">
       <div style="clear: both; text-align: center;"><span class="badge badge-default">12</span></div>
       <h4 style="text-align: center;"><a href="#" class="dark_link">Fashion Photography Helps Raising Funds</h4>
-      <div class="go_smaller" style="text-align: center;">David Connelly <span class="ghost">- 6th Feb 2017</span></div>
+      <div class="go_smaller" style="text-align: center;">Travernigov <span class="ghost">- 6th Feb 2017</span></div>
     </div>
   <?php
   }
@@ -217,7 +217,7 @@
                         WordPress News Magazine Charts the Most Fashionable New York Couples in 2016
                       </a></h3>
 
-                      <div class="go_smaller">David Connelly <span class="ghost">- 6th Feb 2017</span></div>
+                      <div class="go_smaller">Travernigov <span class="ghost">- 6th Feb 2017</span></div>
                       <div style="clear: both; text-align: right;"><span class="badge badge-default">12</span></div>
 
                       <p style="margin-top: 0px; padding-top: 0px;">
